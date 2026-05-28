@@ -1,2 +1,2 @@
-# Severe Maternal Outcome predictor model---ML
+# SEVERE MATERNAL OUTCOME (SMO) PREDICTOR---ML
 The Maternal Risk Detector is a machine learning project designed to predict maternal risk levels using clinical and demographic data. Model comparisons using pipeline was employed as well as other leakage-free techniques.
